@@ -1,7 +1,4 @@
-Software Engineer
-- 🍃 Spring Engineering @vmware-tanzu
-- ☁️ Making #java and @spring-cloud great in @cloudfoundry and @kubernetes
-- 💻 XP, TDD, CI/CD
+Principal Engineer
 
 [![Pronouns he/him](https://img.shields.io/badge/pronouns-he%2Fhim-9cf)](https://pronouns.org/he-him)
 [![Twitter](https://img.shields.io/twitter/follow/albertoimpl?label=Follow)](https://twitter.com/intent/follow?screen_name=albertoimpl)
